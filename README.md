@@ -1,5 +1,8 @@
 # Guidance Comparisong
 
+
+<img src='guide_compare/guide_compare_table.png' align="middle" width=1080>
+
 <img src='guide_compare/1.jpg' align="middle" width=1080>
 <img src='guide_compare/2.jpg' align="middle" width=1080>
 <img src='guide_compare/3.jpg' align="middle" width=1080>
