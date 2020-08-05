@@ -35,6 +35,5 @@
 <img src='profill_patchmatch_compare/12.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/60.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/61.jpg' align="middle" width=1480>
-<img src='profill_patchmatch_compare/44.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/43.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/25.jpg' align="middle" width=1480>
