@@ -1,3 +1,3 @@
 # Guided PatchMatch
 
-<img src='guide_compare/1.jpg' align="middle" width=1080>
+<img src='1.jpg' align="middle" width=1080>
