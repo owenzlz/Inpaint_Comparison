@@ -28,7 +28,6 @@
 # ProFill versus Guided PatchMatch
 
 
-<img src='profill_patchmatch_compare/66.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/58.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/52.jpg' align="middle" width=1480>
 <img src='profill_patchmatch_compare/30.jpg' align="middle" width=1480>
