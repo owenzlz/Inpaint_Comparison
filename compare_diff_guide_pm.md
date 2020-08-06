@@ -37,9 +37,9 @@
 <img src='patchmatch_compare/31.png' align="middle" width=1480>
 <img src='patchmatch_compare/32.png' align="middle" width=1480>
 <img src='patchmatch_compare/33.png' align="middle" width=1480>
-<img src='patchmatch_compare/34.png' align="middle" width=1480>
+<!-- <img src='patchmatch_compare/34.png' align="middle" width=1480> -->
 <img src='patchmatch_compare/35.png' align="middle" width=1480>
-<img src='patchmatch_compare/36.png' align="middle" width=1480>
+<!-- <img src='patchmatch_compare/36.png' align="middle" width=1480> -->
 <img src='patchmatch_compare/37.png' align="middle" width=1480>
 <img src='patchmatch_compare/38.png' align="middle" width=1480>
 <img src='patchmatch_compare/39.png' align="middle" width=1480>
