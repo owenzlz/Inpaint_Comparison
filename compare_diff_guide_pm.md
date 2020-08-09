@@ -1,6 +1,8 @@
 # Compare Different Guidance for PatchMatch
 
+1:
 <img src='patchmatch_compare/0.png' align="middle" width=1480>
+2:
 <img src='patchmatch_compare/1.png' align="middle" width=1480>
 <img src='patchmatch_compare/2.png' align="middle" width=1480>
 <img src='patchmatch_compare/3.png' align="middle" width=1480>
