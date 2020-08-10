@@ -1,6 +1,6 @@
 # Compare Different Guidance for PatchMatch
 
-1:
+1: (uncertain: 0; no_guide: 0; struct_guide: 4; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/0.png' align="middle" width=1480>
 2:
 <img src='patchmatch_compare/1.png' align="middle" width=1480>
