@@ -1,24 +1,24 @@
 # Compare Different Guidance for PatchMatch
 
-1: (uncertain: 0; no_guide: 0; struct_guide: 4; depth_guide: 0; seg_guide: 0)
+1: (uncertain: 0; no_guide: 0; struct_guide: 4; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/0.png' align="middle" width=1480>
-2:
+2: (uncertain: 0; no_guide: 0; struct_guide: 0; depth_guide: 1; seg_guide: 5)
 <img src='patchmatch_compare/1.png' align="middle" width=1480>
-3:
+3: (uncertain: 1; no_guide: 3; struct_guide: 0; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/2.png' align="middle" width=1480>
-4:
+4: (uncertain: 0; no_guide: 2; struct_guide: 4; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/3.png' align="middle" width=1480>
-5:
+5: (uncertain: 4; no_guide: 1; struct_guide: 0; depth_guide: 1; seg_guide: 0)
 <img src='patchmatch_compare/4.png' align="middle" width=1480>
-6:
+6: (uncertain: 0; no_guide: 0; struct_guide: 2; depth_guide: 4; seg_guide: 0)
 <img src='patchmatch_compare/5.png' align="middle" width=1480>
-7:
+7: (uncertain: 2; no_guide: 0; struct_guide: 0; depth_guide: 2; seg_guide: 2)
 <img src='patchmatch_compare/6.png' align="middle" width=1480>
-8:
+8: (uncertain: 0; no_guide: 0; struct_guide: 4; depth_guide: 1; seg_guide: 1)
 <img src='patchmatch_compare/7.png' align="middle" width=1480>
-9:
+9: (uncertain: 1; no_guide: 2; struct_guide: 2; depth_guide: 0; seg_guide: 1)
 <img src='patchmatch_compare/8.png' align="middle" width=1480>
-10:
+10: (uncertain: 0; no_guide: 3; struct_guide: 0; depth_guide: 0; seg_guide: 3)
 <img src='patchmatch_compare/9.png' align="middle" width=1480>
 
 11:
