@@ -63,93 +63,93 @@
 30: (uncertain: 2; no_guide: 1; struct_guide: 2; depth_guide: 0; seg_guide: 1)
 <img src='patchmatch_compare/29.png' align="middle" width=1480>
 
-31:
+31: (uncertain: 0; no_guide: 0; struct_guide: 6; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/30.png' align="middle" width=1480>
-32:
+32: (uncertain: 0; no_guide: 0; struct_guide: 3; depth_guide: 0; seg_guide: 3)
 <img src='patchmatch_compare/31.png' align="middle" width=1480>
-33:
+33: (uncertain: 1; no_guide: 0; struct_guide: 4; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/32.png' align="middle" width=1480>
-34:
+34: (uncertain: 0; no_guide: 1; struct_guide: 3; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/33.png' align="middle" width=1480>
 <!-- <img src='patchmatch_compare/34.png' align="middle" width=1480> -->
-35:
+35: (uncertain: 2; no_guide: 0; struct_guide: 1; depth_guide: 2; seg_guide: 1)
 <img src='patchmatch_compare/35.png' align="middle" width=1480>
 <!-- <img src='patchmatch_compare/36.png' align="middle" width=1480> -->
-36:
+36: (uncertain: 0; no_guide: 6; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/37.png' align="middle" width=1480>
-37:
+37: (uncertain: 0; no_guide: 1; struct_guide: 4; depth_guide: 0; seg_guide: 1)
 <img src='patchmatch_compare/38.png' align="middle" width=1480>
-38:
+38: (uncertain: 0; no_guide: 4; struct_guide: 1; depth_guide: 1; seg_guide: 0)
 <img src='patchmatch_compare/39.png' align="middle" width=1480>
 
-39:
+39: (uncertain: 6; no_guide: 0; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/40.png' align="middle" width=1480>
-40:
+40: (uncertain: 0; no_guide: 0; struct_guide: 2; depth_guide: 0; seg_guide: 4)
 <img src='patchmatch_compare/41.png' align="middle" width=1480>
-41:
+41: (uncertain: 1; no_guide: 2; struct_guide: 1; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/42.png' align="middle" width=1480>
-42:
+42: (uncertain: 0; no_guide: 4; struct_guide: 0; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/43.png' align="middle" width=1480>
-43:
+43: (uncertain: 2; no_guide: 0; struct_guide: 0; depth_guide: 4; seg_guide: 0)
 <img src='patchmatch_compare/44.png' align="middle" width=1480>
-44:
+44: (uncertain: 4; no_guide: 1; struct_guide: 1; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/45.png' align="middle" width=1480>
-45:
+45: (uncertain: 2; no_guide: 2; struct_guide: 0; depth_guide: 1; seg_guide: 1)
 <img src='patchmatch_compare/46.png' align="middle" width=1480>
-46:
+46: (uncertain: 5; no_guide: 0; struct_guide: 1; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/47.png' align="middle" width=1480>
-47:
+47: (uncertain: 0; no_guide: 6; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/48.png' align="middle" width=1480>
-48:
+48: (uncertain: 1; no_guide: 5; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/49.png' align="middle" width=1480>
 
-49:
+49: (uncertain: 1; no_guide: 3; struct_guide: 0; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/50.png' align="middle" width=1480>
-50:
+50: (uncertain: 0; no_guide: 6; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/51.png' align="middle" width=1480>
-51:
+51: (uncertain: 1; no_guide: 0; struct_guide: 5; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/52.png' align="middle" width=1480>
-52:
+52: (uncertain: 0; no_guide: 6; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/53.png' align="middle" width=1480>
-53:
+53: (uncertain: 2; no_guide: 1; struct_guide: 1; depth_guide: 2; seg_guide: 0)
 <img src='patchmatch_compare/54.png' align="middle" width=1480>
-54:
+54: (uncertain: 1; no_guide: 1; struct_guide: 0; depth_guide: 4; seg_guide: 0)
 <img src='patchmatch_compare/55.png' align="middle" width=1480>
-55:
+55: (uncertain: 0; no_guide: 1; struct_guide: 4; depth_guide: 1; seg_guide: 0)
 <img src='patchmatch_compare/56.png' align="middle" width=1480>
-56:
+56: (uncertain: 1; no_guide: 1; struct_guide: 4; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/57.png' align="middle" width=1480>
-57:
+57: (uncertain: 0; no_guide: 0; struct_guide: 6; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/58.png' align="middle" width=1480>
-58:
+58: (uncertain: 3; no_guide: 3; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/59.png' align="middle" width=1480>
 
-59:
+59: (uncertain: 4; no_guide: 2; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/60.png' align="middle" width=1480>
-60:
+60: (uncertain: 1; no_guide: 1; struct_guide: 0; depth_guide: 3; seg_guide: 1)
 <img src='patchmatch_compare/61.png' align="middle" width=1480>
-61:
+61: (uncertain: 1; no_guide: 5; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/62.png' align="middle" width=1480>
-62:
+62: (uncertain: 0; no_guide: 3; struct_guide: 0; depth_guide: 3; seg_guide: 0)
 <img src='patchmatch_compare/63.png' align="middle" width=1480>
-63:
+63: (uncertain: 3; no_guide: 3; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/64.png' align="middle" width=1480>
-64:
+64: (uncertain: 3; no_guide: 0; struct_guide: 1; depth_guide: 0; seg_guide: 2)
 <img src='patchmatch_compare/65.png' align="middle" width=1480>
-65:
+65: (uncertain: 0; no_guide: 1; struct_guide: 3; depth_guide: 2; seg_guide: 0)
 <img src='patchmatch_compare/66.png' align="middle" width=1480>
-66:
+66: (uncertain: 1; no_guide: 5; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/67.png' align="middle" width=1480>
-67:
+67: (uncertain: 6; no_guide: 0; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/68.png' align="middle" width=1480>
-68:
+68: (uncertain: 0; no_guide: 2; struct_guide: 0; depth_guide: 4; seg_guide: 0)
 <img src='patchmatch_compare/69.png' align="middle" width=1480>
 
-69:
+69: (uncertain: 1; no_guide: 5; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/70.png' align="middle" width=1480>
-70:
+70: (uncertain: 1; no_guide: 0; struct_guide: 5; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/71.png' align="middle" width=1480>
-71:
+71: (uncertain: 0; no_guide: 6; struct_guide: 0; depth_guide: 0; seg_guide: 0)
 <img src='patchmatch_compare/72.png' align="middle" width=1480>
 
 
